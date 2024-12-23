@@ -2,6 +2,7 @@
 function fun()
 {
     console.log("Code branch JSM");
+    console.log("Code branch JSC");
 }
 function funPrint()
 {
