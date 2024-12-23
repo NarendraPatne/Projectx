@@ -1,7 +1,7 @@
 // code branch js
 function fun()
 {
-    console.log("Code branch JS");
+    console.log("Code branch JSM");
 }
 function funPrint()
 {
